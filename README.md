@@ -75,12 +75,10 @@ https://www.kaggle.com/datasets/bahramjannesarr/goodreads-book-datasets-10m
 ## 📸 Dashboard Preview
 
 ### Novel Insights Dashboard
-<img src="Novel-Analysis-PowerBI-Dashboard
-/DASHBOARD1.jpg" width="900"/>
+<img src="DASHBOARD1.jpg" width="900"/>
 
 ### User Rating Analytics
-<img src="Novel-Analysis-PowerBI-Dashboard
-/DASHBOARD2.jpg" width="900"/>
+<img src="DASHBOARD2.jpg" width="900"/>
 
 ---
 
@@ -95,5 +93,5 @@ Through this project, I learned:
 ---
 
 ## 👨‍💻 Author
-Midhun Naga Sai Munagapati  
+Harsha sree
 B.Tech CSE Student# Novel-Analysis-PowerBI-Dashboard
